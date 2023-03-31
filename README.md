@@ -1,10 +1,10 @@
 # Weather-Forecast
 
-This app help user to see weather data of five different country upto next five days.
+* I have made this app using OpenWeatherMap Api key.
+* In this app user can see the weather forecast of any city.
 
-To download the app go through
-Weather-Forecast/app/build/intermediates/apk/debug/app-debug.apk
+You can download the APK file [here](https://drive.google.com/file/d/1ydz5w7JLY7r2AO5Li1kPAbBn8uVV7cw8/view?usp=sharing).
 
-![main (Small)](https://user-images.githubusercontent.com/91480608/205475417-06b34d30-32dd-43ea-ba46-7e1917af8a1c.png)
+![Screenshot_20230331_184553 (Phone)](https://user-images.githubusercontent.com/91480608/229141428-6edeaba7-cb77-49db-9e91-6cdf4b782b04.png)
+![Screenshot_20230331_184628 (Phone)](https://user-images.githubusercontent.com/91480608/229141519-6cbd5481-3301-400d-a63d-6a9e7be85ef7.png)
 
-![forecast (Small)](https://user-images.githubusercontent.com/91480608/205475421-8d14df1d-2600-412a-992c-16d447edc8f1.png)
