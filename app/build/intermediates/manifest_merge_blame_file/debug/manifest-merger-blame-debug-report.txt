@@ -15,86 +15,93 @@
 11-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:6:5-36:19
+13-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:7:5-41:19
 14        android:allowBackup="true"
-14-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:7:9-35
+14-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:8:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.7.0] C:\Users\ADMIN\.gradle\caches\transforms-3\5586099dc2be2a001572cf14c2426ba8\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+15-->[androidx.core:core:1.8.0] C:\Users\ADMIN\.gradle\caches\transforms-3\f8ca33f57cc610a0b1ed31d0cc4084bb\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 16        android:dataExtractionRules="@xml/data_extraction_rules"
-16-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:8:9-65
+16-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:9:9-65
 17        android:debuggable="true"
 18        android:fullBackupContent="@xml/backup_rules"
-18-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:9:9-54
+18-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:10:9-54
 19        android:icon="@mipmap/ic_launcher"
-19-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:10:9-43
+19-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:11:9-43
 20        android:label="@string/app_name"
-20-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:11:9-41
+20-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:12:9-41
 21        android:roundIcon="@mipmap/ic_launcher_round"
-21-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:12:9-54
+21-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:13:9-54
 22        android:supportsRtl="true"
-22-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:13:9-35
+22-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:14:9-35
 23        android:testOnly="true"
 24        android:theme="@style/Theme.WeatherForecast" >
-24-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:14:9-53
+24-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:15:9-53
 25        <activity
-25-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:16:9-22:20
-26            android:name="com.example.weatherforecast.weatherdata"
-26-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:17:13-40
+25-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:17:9-23:20
+26            android:name="com.example.weatherforecast.weatherdata2"
+26-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:18:13-41
 27            android:exported="false" >
-27-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:18:13-37
+27-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:19:13-37
 28            <meta-data
-28-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:19:13-21:36
+28-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:20:13-22:36
 29                android:name="android.app.lib_name"
-29-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:20:17-52
+29-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:21:17-52
 30                android:value="" />
-30-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:21:17-33
+30-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:22:17-33
 31        </activity>
 32        <activity
-32-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:23:9-35:20
+32-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:24:9-36:20
 33            android:name="com.example.weatherforecast.MainActivity"
-33-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:24:13-41
+33-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:25:13-41
 34            android:exported="true" >
-34-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:25:13-36
+34-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:26:13-36
 35            <intent-filter>
-35-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:26:13-30:29
+35-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:27:13-31:29
 36                <action android:name="android.intent.action.MAIN" />
-36-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:27:17-69
-36-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:27:25-66
+36-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:28:17-69
+36-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:28:25-66
 37
 38                <category android:name="android.intent.category.LAUNCHER" />
-38-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:29:17-77
-38-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:29:27-74
+38-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:30:17-77
+38-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:30:27-74
 39            </intent-filter>
 40
 41            <meta-data
-41-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:19:13-21:36
+41-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:20:13-22:36
 42                android:name="android.app.lib_name"
-42-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:20:17-52
+42-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:21:17-52
 43                android:value="" />
-43-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:21:17-33
+43-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:22:17-33
 44        </activity>
 45
-46        <provider
-46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ADMIN\.gradle\caches\transforms-3\4b580972190c9e236a669c6a1f1f8a9e\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-47            android:name="androidx.startup.InitializationProvider"
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ADMIN\.gradle\caches\transforms-3\4b580972190c9e236a669c6a1f1f8a9e\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-48            android:authorities="com.example.weatherforecast.androidx-startup"
-48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ADMIN\.gradle\caches\transforms-3\4b580972190c9e236a669c6a1f1f8a9e\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-49            android:exported="false" >
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ADMIN\.gradle\caches\transforms-3\4b580972190c9e236a669c6a1f1f8a9e\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-50            <meta-data
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ADMIN\.gradle\caches\transforms-3\4b580972190c9e236a669c6a1f1f8a9e\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ADMIN\.gradle\caches\transforms-3\4b580972190c9e236a669c6a1f1f8a9e\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-52                android:value="androidx.startup" />
-52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ADMIN\.gradle\caches\transforms-3\4b580972190c9e236a669c6a1f1f8a9e\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-53            <meta-data
-53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ADMIN\.gradle\caches\transforms-3\dd1064e81b3445eb173cd45521bfd469\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ADMIN\.gradle\caches\transforms-3\dd1064e81b3445eb173cd45521bfd469\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-55                android:value="androidx.startup" />
-55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ADMIN\.gradle\caches\transforms-3\dd1064e81b3445eb173cd45521bfd469\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-56        </provider>
-57    </application>
-58
-59</manifest>
+46        <meta-data
+46-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:38:9-40:57
+47            android:name="preloaded_fonts"
+47-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:39:13-43
+48            android:resource="@array/preloaded_fonts" />
+48-->G:\PROJECTS\WeatherForecast\app\src\main\AndroidManifest.xml:40:13-54
+49
+50        <provider
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADMIN\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+51            android:name="androidx.startup.InitializationProvider"
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADMIN\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+52            android:authorities="com.example.weatherforecast.androidx-startup"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADMIN\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+53            android:exported="false" >
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADMIN\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+54            <meta-data
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADMIN\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+55                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADMIN\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+56                android:value="androidx.startup" />
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADMIN\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+57            <meta-data
+57-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADMIN\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+58                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADMIN\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+59                android:value="androidx.startup" />
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADMIN\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+60        </provider>
+61    </application>
+62
+63</manifest>
