@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\layout_cities_listview.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\layout\\cities_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\drawable_radiusbox.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\drawable\\radiusbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\layout_activity_weatherdata2.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\layout\\activity_weatherdata2.xml"
+    },
+    {
+        "merged": "com.example.weatherforecast.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.example.weatherforecast.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\layout_fivedays_weatherdata.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\layout\\fivedays_weatherdata.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\drawable_day.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\drawable\\day.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\drawable_ic_round_error_24.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\drawable\\ic_round_error_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\drawable_night.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\drawable\\night.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\7.5\\com.example.weatherforecast.app-main-32:\\xml\\data_extraction_rules.xml"
+    }
+]
