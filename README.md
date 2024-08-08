@@ -1,5 +1,5 @@
 # Weather-Forecast
-
+A simple Android app that provides real-time weather forecasts for any city using the OpenWeatherMap API. The app displays temperature, humidity, and other weather details with a user-friendly interface. The project is built with Java and includes a downloadable APK for easy installation.
 * I have made this app using OpenWeatherMap Api key.
 * In this app user can see the weather forecast of any city.
 
